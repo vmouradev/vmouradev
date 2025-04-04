@@ -4,7 +4,7 @@
 
 <p align="center"> <img width="300"  src="https://www.icegif.com/wp-content/uploads/icegif-1301.gif" alt="Mando" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmoura7&label=Profile%20views&color=0e75b6&style=flat" alt="vmoura7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmouradev&label=Profile%20views&color=0e75b6&style=flat" alt="vmouradev" /> </p>
 
 <div align="center">
     - 🔭 No momento estou trabalhando <b> para desenvolver habilidades em Full Stack </b> <br>
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/vmouradev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmoura7&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vmouradev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
