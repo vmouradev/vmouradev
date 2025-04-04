@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, sou Victor Moura</h1>
-<h3 align="center">Pós-graduando em Engenharia de Software<br>Só quem é apaixonado por desenvolver sabe que codar é ir além dos códigos!</h3>
 
 <p align="center">
   <img width="300" src="https://www.icegif.com/wp-content/uploads/icegif-1301.gif" alt="Mando" />
@@ -59,7 +58,6 @@ Atualmente, trabalho com:
 
 <p align="center">
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
